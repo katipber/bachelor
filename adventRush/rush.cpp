@@ -119,7 +119,7 @@ struct IntList {
 struct Square {
   
   bool     vis;
-  long int      pls, mns;
+  long int pls, mns;
   IntNode* nbr;
   
   Square() : vis(0), pls(1), mns(0), nbr(nullptr) {}
@@ -216,9 +216,9 @@ struct Heap {
   
 };
 
-long int     SQ, RD, HSIZE;
-Set**   SSET;
-Heap*   ROAD;
+long int SQ, RD, HSIZE;
+Set**    SSET;
+Heap*    ROAD;
 
 void getInput() {
   
@@ -303,7 +303,7 @@ void decSquare(Square* sqre, IntList* dcor, long int i, bool add) {
     else flag = true;
   }
   IntNode* n = sqre[i].nbr;
-//cout << i << " | " << sqre[i].pls << ":" <<  sqre[i].mns << " | " << flag << endl;
+
   while(n != nullptr) {
     decSquare(sqre, dcor, n->val, flag);
     n = n->next;
@@ -315,6 +315,7 @@ void solve() {
   long int       rcnt = 0;
   long int       scnt = 0;
   long int       rlen = 0;
+  
   Tuple*    tup   = nullptr;
   IntList*  dcor  = new IntList();
   RoadList* road  = new RoadList();
