@@ -1,0 +1,4786 @@
+    xSokoban XSB File Format for Levels:
+    # (hash) = Wall
+      (space) = Floor
+    . (period) = Empty goal
+    @ (at) = Man (pusher) on floor
+    + (plus) = Man (pusher) on goal
+    $ (dollar) = Box on floor
+    * (asterisk) = Box on goal
+
+    xSokoban LURD Notation for Moves:
+    l,L = left,Left push
+    u,U = up,Up push
+    r,R = right,Right push
+    d,D = down,Down push
+
+
+  ###
+  #.#
+  # ####
+###$ $.#
+#. $@###
+####$#
+   #.#
+   ###
+
+Title: Level 1
+Author: Boxworld
+Solution: DuLLrUUdrR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+#@  #
+# $$# ###
+# $ # #.#
+### ###.#
+ ##    .#
+ #   #  #
+ #   ####
+ #####
+
+Title: Level 2
+Author: Boxworld
+Solution: rrDDDDrddlluRdrUluuuuulldRurDDDDRRRdrUUdlllddlluRdrUluuuulldRurDDDRRRdrUlllddlluRdrUluRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #######
+ #     ###
+##$###   #
+# @ $  $ #
+# ..# $ ##
+##..#   #
+ ########
+
+Title: Level 3
+Author: Boxworld
+Solution: rRRddrruULuullllDDDuuurrrrddLLLrrruulllldDrrrrrruLdlllllldRuuurrrrDrdLLLLDurrruulllldDldRurrrddrUruLLLLrrruulllldD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ####
+##  #
+#@$ #
+##$ ##
+## $ #
+#.$  #
+#..*.#
+######
+
+Title: Level 4
+Author: Boxworld
+Solution: RDrDrddLLrruulDLdRuuulDDuuuurDDDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #####
+ #@ ###
+ # $  #
+### # ##
+#.# #  #
+#.$  # #
+#.   $ #
+########
+
+Title: Level 5
+Author: Boxworld
+Solution: rDrrddrddLLulLdlUrrrdrruuluullDDuurrddrddllLLrruLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #######
+####     #
+#   .### #
+# # #    ##
+# # $ $#. #
+# #  *  # #
+# .#$ $ # #
+##    # # ###
+ # ###.    @#
+ #     ##   #
+ ############
+
+Title: Level 6
+Author: Boxworld
+Solution: llllldlllluurrruRuUluRRldddldllluluuuurrrurrrrdDllldLdlUUdrrrdrDDulldlllddrrrruRldlllluuuluuuurRdddrDrdLLrrurrddldlllluUddrrrrurRRdrruLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #######
+  ##  # @#
+  #   #  #
+  #$ $ $ #
+  # $##  #
+### $ # ##
+#.....  #
+#########
+
+Title: Level 7
+Author: Boxworld
+Solution: dddlUlLullDDDuuurrdrrdddlluLdLLrrrrruuullullddDrdLuuuurrdLDDldRuuurrrruulDrdLLLulDDDuuulDDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ######
+ ###    #
+##. $## ##
+#..$ $  @#
+#.. $ $ ##
+######  #
+     ####
+
+Title: Level 8
+Author: Boxworld
+Solution: llLdLLUdrruLLrrrruulllDLdLrdLrrruLLrrrrdLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #########
+ #  ##   #
+ #   $   #
+ #$ ### $#
+ # #...# #
+## #...# ##
+# $  $  $ #
+#     # @ #
+###########
+
+Title: Level 9
+Author: Boxworld
+Solution: lulullddrUluRdrrdrruLLLUlldldlluRuuUrurRRurrdDDDuuuulldRlllldldddRdrUdrUlURdrrdrruLLLrruuuluurDDDDuululllldlddddrrrUUdrrdrruLLLrruuululllldlddddrrrUllluuuruulDDDDuururrrrdrdddllllldlluRRdrU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ######
+  #    #
+###$$$ #
+#@ $.. #
+# $...##
+####  #
+   ####
+
+Title: Level 10
+Author: Boxworld
+Solution: dRRRurruullDDLdlluRRRuurrdLulDulDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ####  #####
+##  #  #   #
+# $ ####$  #
+#  $.... $ #
+##    # @ ##
+ ##########
+
+Title: Level 11
+Author: Boxworld
+Solution: lullldlluRRRlluulDldRRdrruRRdrrULLLrrrruulDrdLLLrruulDrdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #####
+###  @#
+#  $. ##
+#  .$. #
+### *$ #
+  #   ##
+  #####
+
+Title: Level 12
+Author: Boxworld
+Solution: ldLdlluRRurrddLLddrrUdlluuulldR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ####
+  #..#
+ ## .##
+ #  $.#
+## $  ##
+#  #$$ #
+#  @   #
+########
+
+Title: Level 13
+Author: Boxworld
+Solution: luuRRUUldldddrrUUddrruLdllluurrUrDlllddrrUUruLdddrUUllUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########
+#  #   #
+# $..$ #
+#@$.* ##
+# $..$ #
+#  #   #
+########
+
+Title: Level 14
+Author: Boxworld
+Solution: dRluuRDrRuLrurrdLLdddrruLUluurrdLdlllluurDldRRllddrUluR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ######
+##    ##
+# $ $$ #
+#......#
+# $$ $ #
+### @###
+  ####
+
+Title: Level 15
+Author: Boxworld
+Solution: uuluurrDLdddlUruuullDRllddRRdrUlULuurDurrdLrrddLLULrddlUruRuulDulldRRurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ######
+  #    ###
+  # $    #
+### $ ## #
+#... $   #
+#...$#$ ##
+#### # $ #
+   #  @  #
+   #######
+
+Title: Level 16
+Author: Boxworld
+Solution: lluUluuRlddrUluuurrdLulDDDuurrrrrddllLLLLrrdLLrrddrruUruLLLLuurrDLulDDrdLrddrrrUUluLLulDrruurrrddLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######
+#    #
+# $$$##
+#  #..###
+##  ..$ #
+ # @    #
+ ########
+
+Title: Level 17
+Author: Boxworld
+Solution: luuluurrrDDrdLuuullDRurDDrddrruLdlUdlUdlluRRllUluRurrdDuulldRurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ########
+  #   #. #
+ ##  $...#
+ #  $ #*.#
+## ##$# ##
+#   $  $ #
+#   #    #
+#######@ #
+      ####
+
+Title: Level 18
+Author: Boxworld
+Solution: ruuLuUruulDlLulldRRRRurDlDDDrddlUlluUUdddrrUUUUlLulldRldRuRRRddddlluRdrUUUddlluUluRlldlddrRRRdrUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #######
+ #.... #
+###...$###
+#  $#$ $ #
+# $$  #$ #
+#    #   #
+#### @ ###
+   #####
+
+Title: Level 19
+Author: Boxworld
+Solution: luurUdlddrrurruuLLrrddlldllullUdrruLUUrurrDLulLdddrrUUruLdddlddrrurruulLrrddlldllullluRdrUUUddlluRdrUdrrUUdrrrddlUruLLrddldlluurU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######
+#..$..#
+#..#..#
+# $$$ #
+#  $  #
+# $$$ #
+#  #@ #
+#######
+
+Title: Level 20
+Author: Boxworld
+Solution: ruulUruulLLdlddrUUlddddrUUURRUddrUUddddlUUUddLUdLdlUUUrRRdrU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ######
+   # ...#
+####....#
+#  ###$ ###
+# $ $  $$ #
+#@ $ $    #
+#   ###   #
+##### #####
+
+Title: Level 21
+Author: Boxworld
+Solution: uurDrRdRRuUruLLrdddlluRdrUUUruLdddlllllddrUluRRRRdrUUddRUUULddllllddrUluRRRdrUUUdddrdrruuLLrrdLdlUUUddlUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########
+#      #
+# #$$  #
+# ...# #
+##...$ ##
+ # ## $ #
+ #$  $  #
+ #  #  @#
+ ########
+
+Title: Level 22
+Author: Boxworld
+Solution: luUULLullluurrDurDrrDDDrddllUlldlUUUddrrrUruLdrrdLLLLdlUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #####
+###   ####
+#   $ $  #
+# $   $ @#
+###$$#####
+  #  ..#
+  #....#
+  ######
+
+Title: Level 23
+Author: Boxworld
+Solution: lLLuullddRDDldRRluuuluurDDDDldRuuuurRdLulDDDuurrrruLLLulDDDululldRRDDRRlluuurDDldR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######   #####
+#    ### #  .#
+#  $ $ # #...#
+# #  $ ###  .#
+#  $$$   $ @.#
+###  $  $#  .#
+  #  $#$ #...#
+  ##     #  .#
+   ###########
+
+Title: Level 24
+Author: Boxworld
+Solution: lLLDlluRRRRRllllluLLDRRRRRRdrrUUUdlDllllllluuullldddrRRRRRRRRRDrUUdlllllllllddrUluRRRRRRRRlllllllllluurRDullddrRRRRRRRRdrUUrDDDLuulllllllluuurDDldRRRRRRRRllllluuLdlluurDDldRRRRRRRurrDDuLdlUlllllldddrrrUUluRRRRRlllldddrUUluRRRUrDllllllldRRRddllUUluRRRRRRdRUllllddrUluRRRuRDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ######
+ #####.   #
+ #  #..## #
+ #  $..   #
+ #  # .# ##
+### ##$#  #
+# $    $$ #
+# #$#  #  #
+#@  #######
+#####
+
+Title: Level 25
+Author: Boxworld
+Solution: rrUUrrrUUUUddddlllUUluurDRRdrddllluUluRRldddrrruuUrrddrddlULLuulUlldddrRdrUllluuurrrrrdDrdLLLUUlulldddddlluuRlddrruUUUluRRldddrRdrUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #########
+ #   ##  ####
+ # $        #
+ ##$### ##  #
+ #  ## * # ##
+ # $...... #
+## ### . # #
+#     $###$#
+#   #    $@#
+#####$# ####
+    #   #
+    #####
+
+Title: Level 26
+Author: Boxworld
+Solution: LLLddllUUddrruuLUUrurrruuullldDrddllddrrrrUUUllulDrrrUUruLLLulDDDlDRRluuurrrddddddlllluLLLdlluRuuRRRRRuuurrrddddddlllluUddrrrruuuuuullldddLLrddllLdlluRRRRDrUUddrrrruuuuuullllllulldRRRRRdddLddlllluuurUdldddrrrdrrddllUUrrrrruuuuuulLulDDDuulllulldRRRRlllddldddrrRdrUUddrrrruuuuuullulDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      #########
+      #       #
+      # # # # #
+      #  $ $# #
+#######   $   #
+#..#  ## $ $# #
+#..   ## $ $  #
+#..#  ## ######
+#..# # $ $ #
+#..     $  #
+#  ### @ ###
+#### #####
+
+Title: Level 27
+Author: Boxworld
+Solution: rUUUUUUrUdlluRRlddddddrruLdlUUUUUluuurrrrrrdddllLdLrurrruuulllllldddrDDDDrdLLLLLLruuulllddddrUUUUdddrrrrrruuuurruLrrrruuullllDDDuuullddRDDDDDrdLLLLLLruuulllddddrUUdrrrrrruuuuurrdLulDuluuurrdDuurrdDLddllDDDrdLLLLLLruuulllddrUldddrUUdrrrrrruuuurrdLulDDDrdLLLLLLLdlUUUURRlldddrrrrrrruuurruuLruruurrdddddlLLLulDDDrdLLLLLLruuruulDlllddddrUrrrrrruuurruuuruulldDlDDDDDrdLLLLLLLdlUUUddrrrrrrruuurruuLulDDDDDrdLLLLLLLdlUUdrrrrrrruuurrrrruulLLLrrDurrddlLLLulDDDrdLLLLLLLdlUrrrrrrruuuruuulDDDDDrdLLLLLLLrrrruRdrUUUruulDDDDrdLLLLLLruUruLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ####
+#####  #
+#  $ $ # #######
+#   $  # #*.*.*#
+## $ $ ###.*.*.#
+ #$ $  #  *.*.*#
+ #@$ $    .*.*##
+ #$ $  #  *.*.*#
+## $ $ ###.*.*.#
+#   $  # #*.*.*#
+#  $ $ # #######
+#####  #
+    ####
+
+Title: Level 28
+Author: Boxworld
+Solution: UrRdRRRRdrUrUrUrRlldldDrDrRuUUUddlUdDlUUdllluRRRRdrUdllllllllluuRDldRRRRRRRRurDDDuulllllllulllldRRRRRRRRRRurDDulllllllluuurDDldRRRRRurDDullllluuuuulDDDDldRRRRRRRRdrUllllllluuuullDDDldRRRRRRRRRlllllluuulllDDldRRRRRRRRRurDldRulllllluuulllluRRRurDDDDldRRRRRRdrUllllllullllUruulldRRRRurDDDldRRRRRurDldRullllldddlUlUluRRRRRRRRlllllddlUluRRRRRRdrUllllldddddlUUUUluRRRRRurDldRullllddddllUUUluRRRRRRRlllldddlllldRRRdrUUUUluRRRRdrUllllllllDDRddlluRRRRdrUUUluRRRurDldRullldddllUUluRRRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########
+#......#
+#  $ # ##
+# $ # $ #
+##$ $ $ #
+ #  @   #
+ ########
+
+Title: Level 29
+Author: Boxworld
+Solution: luuUruLLdrdddrruLdrrruLLdllUUUlldRurrurrdDlddlluUluuRRllddrUluRddddrrrUUUdldLdlUUUdddlUUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ##########
+###   .    #
+#   ##$##  #
+# @$. . .$##
+## $##$## #
+ #    .   #
+ ##########
+
+Title: Level 30
+Author: Boxworld
+Solution: ddrrrrrrruUlllllLuurrrDulllddrrRRllllulldRddrrrrrrruuUruLLLrrddddlllUdlllluuRDldRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ######
+####.  @#
+#  $$$  #
+#.##.##.#
+#   $   #
+#  $.# ##
+####   #
+   #####
+
+Title: Level 31
+Author: Boxworld
+Solution: dddlddlluLuRddrruuruulullDDDllluurRlldddRurruURurrdddlLLuurRurDlllddrrddllUULLdRllU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ######
+ #. ..#
+ #. $.#
+###  $##
+# $  $ #
+# #$## #
+#   @  #
+########
+
+Title: Level 32
+Author: Boxworld
+Solution: lUUUUluRRDlddddlluuRlddrruUUUruLdddddrrruuLUdLUdrrddllluUUrUL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ######
+  ###    ###
+  #   #$   ###
+  #   $   $$ #
+  # $$ #$    #
+  ##   $   $ #
+###### #$#####
+#..@ #$  #
+#.#..  $##
+#....$# #
+#....   #
+#########
+
+Title: Level 33
+Author: Boxworld
+Solution: drrrUUUllUluurrdDuuurrrddlLDDDDrDLLLdlUrrruuuulldRurDDDrdLLLuLLrDrrruuuuurrrddlLrruullldDDDrrUdldLLLdLUruLddLdlUrrurrruuuuurrrddLLrruuluulDulldDDrDDDrdLLLulDDrdLLrrrrrUUllDurrddlLLLuurrruuurrddLruulldDrdLLLulDDurrruuurrrurrrdLLLLLrruulLLdDDDrdLLdlluurDDurruuuuurrDrdLLruulldDDDrdLLLulDrdLLrurrruuuuururrrDDrdLLLLruulldDDDrdLLLulDrdLurrruuurrrrrruuLLLulDDrdLLruulldDDDrdLLdlluurDrruuuullluurDldRRluurDrDDDDrdLLLulDrrruuuuulldRurDDDDrdLLLrruuuulldRurDDDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############
+#      #      #
+# $ #$ # $##$ #
+# #  $ #      #
+#   ##$#$##$$ #
+# # # ... #   #
+# $  . # .$ # #
+# $#@$...# #  #
+#    . # .  $ #
+# ##.$###$. # #
+# # $..... ## #
+#             #
+###############
+
+Title: Level 34
+Author: Boxworld
+Solution: dllldddrruRRRRllluurDluuuluuuuurrrddDDDlDDlddRdrrrrrrrruuuuuuuulllllDurrrrrddddddddllluuulluuruLLrddlLullluuuuurrrdddDDurruuuurDurrrrddlllLulDDurrrrrddddddddllluuulluuruLLruuuurrrrDrdLLLLulDDurrrrrddddddddllluuulluuruLdddrrddlUddlluRdllluRRllluurDldRRlluuuurDDDldRdrrrrrrrruuuLLrruuuuulllllddddlLulDDDulllluuRDldRRluuRRluuuuurrrdddDDulDDRullluuurRlluurrDrDDDDllllluuuuRurDDrRurDDulllDDullddrRRdDllldddrrrrrrrrrrrruuuuuulUruLLLLulDDDDuuurrrrddldLdDuuruUruLLLulDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#########
+#   ##  #
+# # $ $ #
+#  *.#  #
+## #.@.##
+##$###*###
+#        #
+#   ## # #
+######   #
+     #####
+
+Title: Level 35
+Author: Boxworld
+Solution: luLuullddRdDuuluurrdRddrruruulDLLddrrUruLddDDrrddllUUllldlluRuuuRlluurrDullddrdddRRRRddrruuLLUUUruulDLLDurrDDDDrrddllUUUdLLLdlluRRRRRddrruuLrddlluUlllluuuRlluurrD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########
+#      #
+# $$   ###
+#  $ $$$ #####
+## ## ...    ##
+ # #@#...###$ #
+ # # $...     #
+## # $...$ # ##
+#  ##### ### #
+#      $   $ #
+###########  #
+          ####
+
+Title: Level 36
+Author: Boxworld
+Solution: dRldRuRurDuullUluurDrDulldRdRluurDDDrruuLDrrrrrDrdLLLLLdddrrRdrUUUddlllluuuuurrrrdrdLLLLrrruullllllluurDuulllllddrddddddrrrrRRuuUdddRRRdrUUUddlllllllllluuuuuuRRRdRluurDrrdrrrrdrdLLLdLruLrrruullllullDRluuullllDRRRurDDullllldRRRRdRluurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #####
+   # @ #
+   #$$$#
+####   #
+#   .#$##
+# $.$. .#
+#  #.#.##
+########
+
+Title: Level 37
+Author: Boxworld
+Solution: lDDrrDDlLrruulluurrDDDullDDrRllulllddrUluRRldRRUUrrddLLLrrruuuullDDDldRlulldRurrurruLulDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############
+#... #     #
+#..  # ##  #
+#..     #  #
+#..  # $## #
+#... #$ $  #
+######  $$ #
+ ##  $ $$  #
+ #@ $$$  # #
+ ## $ ##   #
+  #        #
+  ##########
+
+Title: Level 38
+Author: Boxworld
+Solution: rddrrrrruulURlluUrRDLddrdrruuuuuuuullllddrDDlUruLLLLLrrrruurrrrddddddddllululUUUruLLLulDrrrddrrdLdlUUUruLLLLDrdLLulUUrDDurrrruurrrrddddLLLdlUUruLLLLrrrddrrrrdLLLddrUllUUUruLLLdllUUrDrrrddrrrdLLdlUUUruLLLdLLrUrrrddrrrrddLLdddllllluuurRlldddrruUddrrruulUdLUUUUruLLLuLLrDrrrddrrdddddllllluuurRlldddrruUrUUUUruLLLLLrrrrdddddlddlluuurRdrUUUUruLLLdLUUdrrrddrrdLdlUUUruLLLdlUrrrddddlllddRUluRRdrUUUUruLLLuLDrrrddddlldddrUUluRdrUUUUruLLLLD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#########
+#       #
+#  $ $ $#
+## #$## #
+ # .. ..##
+ ##.. .. #
+  # ##$# ##
+  #$ $ $  #
+  #      @#
+  #########
+
+Title: Level 39
+Author: Boxworld
+Solution: llluUddrruuulLLullluuurrdRurrDDDldddLdllUUUdddrruLdlUUddrrrrruLdlUUUddrruuLuuuulldRurDDDuuullllldRRDuRRurDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####      ####
+#@  ########  #
+## $       $  #
+ # # #  ####  #
+ #  $   ####$##
+ #$ ## # $ $ #
+## $  $#     #
+#   #      # #
+#   #####$####
+#####   #   #
+    #...  $ #
+    #....#  #
+    #....####
+    ######
+
+Title: Level 40
+Author: Boxworld
+Solution: rdddrRuurrdddDuuuullddRlldDrrruUddllllddrUluRuulDDuurruuLulDDDrrrrddldRRRurrrruUUruulDLLLLLLLLddrrdddrrurrrruuUruLddddlluRdllluRRddLDDrrddlUruLdLLdlluurDrrUUUruulDDDDrdLLLLulDDrRurruuuurrrUUUruulDLLLLLddllllddRRdrrRurDDDrdLLDlluurDDurruuullllulluurrrdDldRRRurDDDrdLLdlluurDrruuulllulllddlluRdrUluRRRlluurrrdDldRRRurDDDrdLLLulDDRurruuullluuullllDDrddlluRdrUluRRRlluurrrdDldRRRurDDDrdLLLLrrruuullluuulluuLulDDDDDrddlluRdrUluRRRlluurrrdDldRRRurDDDrdLLLullDRurDrruuullluuuruuLDDDDuuuuLLLulDDDDDrddlluRdrUluRRRdRRRurDDDrdLLLulDrrruuuurrruuUruLLLLLLLdddDuuuuLLLulDDDDDrddlluRdrUluRRRdRRRurDDDrdLLLLrrruuuuurRdrUUUruLLLLLLLdddDuuuuLLLulDDDDDrddlluRdrUluRRRdRRRurDDDrdLLLrruuullllulluurrrdDldRRRurDDDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     #####
+ #####   #
+ # .. $# #
+ # #.*   #
+## *.#$ ##
+# $  $  #
+#   ## @#
+#########
+
+Title: Level 41
+Author: Boxworld
+Solution: uuulDruruullDllllddRddlluRdrUluuurrrrurrddldlUdrddlULLUUddrrruulLuLrdrrddllluUddLdlluRuRlddrUrrrUruLLrrruullDurrddlL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### #######
+#   ###  #  #
+# $     $ @ #
+## #$##.##  #
+ #  ...*. $ #
+ # $# #.# # #
+ ##    $    #
+  #  ########
+  ####
+
+Title: Level 42
+Author: Boxworld
+Solution: drdddlluulLrrddrruuululLulDllllulldRddrrrddllUluuuRRRRRDDrrddlLLLuuRlddrrrrrruuLLruulLulDlllllddRRRddLdlUUluRRlluurrD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         ###
+    ######@##
+    #....#$ ##
+    #....# $ #
+    #.... $  #
+    # ...#   #
+###### ##### ##
+# $ $   $  #  #
+#    $$   $ $ #
+### $ $ $  ####
+  ##   $ $ #
+   #  ######
+   ####
+
+Title: Level 43
+Author: Boxworld
+Solution: DrDDLLLdllddrddLUUUUURdrUUlLdddddddllURdrUUUUUUlURRldddddrrrdLLrdLLUUUUUluRdddddrrrrdLuuurDluLLdlUUUrUUdLrrrrrrdddrdLLLLLLdlUUUUlURdrUrrrdRurDDDrdLLLLddrUluLLdlUUUUluRRRRRdrrdddlLLLLdlUUUddrrrrrruuullullllldRRlddddllluuRRllddrrruUUddrrrrrruuullullllldRddddllURdrUUUUdddrrrrrruuullulllLddddllluRRdrUUUUUddddllddddrUUUluRdrUUUUddddllllluRRRRdrUUUddrrrdddLLLullddrUUUluRdrUUddrrrrrruuuuLLLLrrruulDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #####
+ ###   ###
+##  @$ $ #
+#  ## ## ##
+# $.#.$   #
+# #.#*#   #
+# $...  ###
+###$# ###
+  #   #
+  #####
+
+Title: Level 44
+Author: Boxworld
+Solution: lldldddRRlluuRuurrurrdLddRRddllddllUUlluuruurRurDllldldddrrddrruuLrrruullDurrddlLrrurruLuuLLulldRDDDurRdrruLuulLulDDDuurrrddLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ####
+      #  ######
+      #    #  #
+      # $$    #
+#######$#  #  #
+#  #. .. ###$##
+#  #.#*.$     #
+#  #.#.*# #   #
+# $$....# #####
+# @$ # ## #
+# $$$#    #
+#    ######
+######
+
+Title: Level 45
+Author: Boxworld
+Solution: URRRRuUddddrrruuuuLLuLLrDrrrrrrUUruulDDDuullullldDDrdLrrrrdrruLuuulldlULulDDurrrrrdddLLLLuLuurrruLLulDDDurrrrrdddlllddddllluullllldddrrrUUUUddddllUUluRRRRlllddRdrUUUllluurDldRRRddlUluR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####
+#  ###
+# $  ###
+# $ $  ###
+# $ $ $  ###
+# $ $ $    #
+# $ $  #   ##
+# $  ## $$$ #
+#@ ####     ##
+## # #.$$$$$.#
+ # ###.......##
+ #   .*******.#
+ ####.........#
+    ###########
+
+Title: Level 46
+Author: Boxworld
+Solution: uuuuuuRlddRUldddRUrRllluurrRDrDRRRdDldRDLdRRDullDRdRRRRllllLLruulDlllluuuUluurrRRRRurDDDDDDrDLdRRRlluullDllllluuuuUluRRRRRRurDDDDDuRDDRRDRlulDulLLdllllluuuurUluRRRRRurDDDDDDDRRRllllllllluuuurrUluRRRdLruRurDDDDDuuurruLdDDDDLdRRlllllllluuuurrUrurrurDDDDDlDRdLLrruuuuuulldllluRRRRurDDDDDDuuuuulllluullDldRRRRRRurDDDDDrDDLLuRuuuuulllluulDldRRRRRurDDDDDDuuuuullllllluuuurDDDldRRRRRRurDDDDDrDLuuuuulllluuuLdlluurDDDldRRRRRRurDDDDDlDRuuuuuulLuLDldRRRurDDDDDuuuullllluuurDDldRRRRurDDDDrRDDuRlluuurDDDuurDDllLulD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######
+# @#  #####
+# $$  $   #
+#  #.##$# #
+##$#...   #
+## ...##$##
+#  ##.##  #
+#  $  $   #
+#  #   #  #
+###########
+
+Title: Level 47
+Author: Boxworld
+Solution:
+lddrDDrrurrrrruullLLulDrrrDurrddlLrDDrddlUlLdlUUUlllDlddrURRRuulllDldRuuuuluurDRRDDuuRRRddrdDrddlUlLdlluRuuLuuurrrddrruuLLLLulDDDuullDDDDlddrURRdrUUdlllUUUUluurDrrrrrddrdDrddlUlLdlUllluuuUluurDrrrrrddrdDrdLLLdllulluuuUluRRldddddrrdrruLLLrrrrruuuluullulDDullddddlddrUUUUUluRRldddddrrrrrruuuluullulD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #####
+   # @ #
+   # $ #
+   #$.$#
+ ###.$.##
+## .$.$.###
+#  $.$.$  #
+#    .    #
+###########
+
+Title: Level 48
+Author: Boxworld
+Solution: ldDrDrDDLUddllluurRRRuUlDuluurDurDDDlDlllddrUdrrUrUdRdrruLLdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############
+#  $ $ $.*..#
+# $ $ $ *...#
+#  $ $ $.*..#
+# $ $ $ *...#
+#  $ $ $.*..#
+# $ $ $ *...#
+#  $ $ $.*..#
+# $ $ $ *...#
+#  $ $ $.*..#
+#@$ $ $ *...#
+#############
+
+Title: Level 49
+Author: Boxworld
+Solution:
+uuuuuuuuurDrDrDrRuRuRRRlluRRdllldlddRdRRRlllululluRuRRRRllluRRRdlllldlluRRRRRlllluRRRRdlllllluRRRRRddDRRRllURRlllulldRRRRllulllllldRRRRRRRlllllllddrUluRRRRRRllllldRRRRRRRlDRRlullldRRRlldRRldRRdddlUlURRlllURRuuulllllllldddrUrRdRRRRllldRRRRllldRRRRllldRRRlluuullllulldRRRRRlllldRRRRRlllldRRRRRlllldRRRRlluuulllllldRRRRRRllllldRRRRRRllllldRRRRRlllluuuuURRRRllDRRllDlluRRRlllllURRRRRlllluRRRRRlulllllldRRRRRRdddlDldRRlllllldRRRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             #
+            ##
+           ###
+          #   #
+   ######## # #
+  # $ $ $ $   #
+ ## #.#.#.#@$#
+###.......   ##
+ ## # # # #$##
+  # $ $ $ $   #
+   ######## # #
+          #   #
+           ###
+            ##
+
+Title: Level 50
+Author: Boxworld
+Solution:
+drUluuurrddLruulldDrddllluuRRDuuurrddLddLuUllddlluuRRddlllluuRRddrrddRRUULLLLddRRuurrruulDurruullDDrddLLLuuRRDuuurrddLddLuUddddddrruuLrddlluUUUruulllddddlluuuullddlluuRRddddRRuuLLrruuRRddLLrrddRRuuLLuullddddlluuuullddddRRuuLruuRRddLLrrddRRuuLLuullddddRRuuLrddlluUrrrrrrruulDrdLLLLLLrrrrruurruullDDDrdLddddrruuLrddlluUUULLddRRddrruuLrddlluUlluuLLddRRuurrruulDrdLLLuuRlddddlluuuuRRddLrddlluUrrrrruuruulldDDrdLLLuuRlddrrruuruulldDllddLrddRRUdlluuuurrrddLLLrrddddrruuLrddlluUUdlluuuurrrddLLrddlluUrrruulDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######
+#  .$ ###
+# .$.$  #
+#*$.$.@ #
+# .$.$ ##
+#  .$  #
+########
+
+Title: Level 51
+Author: Boxworld
+Solution: lLdLdRuuuLDrrruLdlluulldDRRRddlllUdrrUruRuuLrdrrdLdLrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         #####
+         #   #
+########## * ###
+#          .   #
+# $$$$****$...@#
+#          .   #
+########## * ###
+         #   #
+         #####
+
+Title: Level 52
+Author: Boxworld
+Solution: dlllllURRRdllllllllllluurrrrrrrRRlllDullllllddrrrrrRRRRuulllllDullllddrrrRRRRRurrrdddlluUluRRlulllllllDullddrRRRRRRRuruuurrddrrddllddlluUluRullldRullldRRulllldRRRullllldRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ####
+######  #####
+#@$    $  $ #
+#$### $ # # #
+#  #  # $   #
+# $#    # ###
+#  $ #$#   #
+#......... #
+########   #
+       #####
+
+Title: Level 53
+Author: Boxworld
+Solution: DDrDDldRRRRRRRurrdLuuuuulLdLruulDrdddlDullddlluuuluuRRRRDDlddLdlUdrrrRuuLulDDurrddlLLruurrruRluLruulDlDDuurrrrdDDDuurruuLLLLdddlLulDDldRRluurrruuLruulDlDDuurrdddlLulDDldRuurrruuLulDDurrddlLulDDllldRurruruuullllddDDuurDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #########
+ #   ##  ####
+ # $        #
+ ##$### ##  #
+ #  ##.$ # ##
+ # $...... #
+## ###.  # #
+#     $###$#
+#   #    $@#
+#####$# ####
+    #   #
+    #####
+
+Title: Level 54
+Author: Boxworld
+Solution:
+LLLddllUUddrruuLUUrurrruuullldDrddllURRlldddrrrrUUUUUruLLLulDDDrddlluRlddLLLdlluRuuRRllddRRRDrrddllUUrUUruuuulllulldRRRRlllDDldRlddrrRdrUdrrrruuuuuullulDDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###########
+#    #    #
+# $@$$$$$ #
+#         #
+##### #####
+   #.  #
+   #.  #
+   #...#
+   #.  #
+   #####
+
+Title: Level 55
+Author: Boxworld
+Solution: drrrrrruulllDurrrddllLLLLuullddRRRluurDullDrrRDDDlddrUruLuuulldRurDDurrrruulDullDlddDrddlluRuuuururrdLdLruulDlDDDDlddrruLuuuuurrdLulDDDDDrdLuuurDluuuurrrrdLLLulDDDDuuuulllldRRRurDDDrdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #####
+  # @ #
+  # $ #
+### . ###
+#   *   #
+# ***** #
+#   *   #
+###$*$###
+  # . #
+  # * #
+  # . #
+  #####
+
+Title: Level 56
+Author: Boxworld
+Solution: ldddllddrrUUUrruullDurrdddLrrrddllDDllddrrUdlluurDulUURldddrrUlluurDDuuUUrrrddlLrruullldDlddrrUdlluurDuuurrrddlLrruullldDllluurRllddrrrrrruulluuulldDuurrddLDrrrddlllllluurRDullddrRuuUrruullDDDuuurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############
+#.           #
+#.$ $ $ $ $  #
+#.#########  #
+#.#.* $ ..$*##
+#.# $ $ *.$@#
+#.#.  $ ..$$#
+#.#########.#
+#.          #
+#.#$#$#$#$#$#
+#.          #
+#############
+
+Title: Level 57
+Author: Boxworld
+Solution: UUruullllllllllldddddddrrrrrrrrrruULLuullddLLuuLrddrruurrddLruulldLdlLURuRRdRdLLrrrrrddlllllllllluuuuuuurrrrrrrrrrrddldLDururuullllllllllldddddddrrrrrrrrrruuLrddllllllllllddrrrrrrUdlllllluuuuuuuuurrrrrrrrrrrddldlddrddlllLLLLLLrrrDurrrrrruuluururuulllllllllllddddddDuuuuuuurrdLulDDDDDuuuuurrrrdLLLulDDDDuuuurrrrrrdLLLLLulDDDuuurrrrrrrrdLLLLLLLulDDuurrrrrrrrrrrddlULLLLLLLLLulDrrrrrrrrrrddlddrUUUruLLLLLLLLLLrrrrrrrrrddddddllllddrrUdrrUUUUUUddddddlllllLLLLrUdrruulLLrrrrrrRRlddrruUUUluurDDuuUruuLLLLLLLLLLrrrrrrrrrDDDlddrUldLLululldRRldRRlullldRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############
+#..  #     ###
+#..  # $  $  #
+#..  #$####  #
+#..    @ ##  #
+#..  # #  $ ##
+###### ##$ $ #
+  # $  $ $ $ #
+  #    #     #
+  ############
+
+Title: Level 58
+Author: Boxworld
+Solution: rdrRdddrruuLUUruulLulllldDuurrrrdrrddldlllulLLLLLdlUUUddrrrrruuurrdLulDDuurrrrdrrddldlllulLLLLLdlUUdrrrrruuurrrrdLLLulDDurrrrrrddldlllulLLLLLrrrrrrdrrruUruLLLLLulDDurrrrrdddlllulLLLLrrrddddllluRRdrUUUUrrdrrruuulllllDurrrrrdddlllulLLLdlUrrrrrdrrrdrddlllluLLdlluRdrUUUddrrdrruLLLLdlluRdrUrrdrrrruululllulLLLuLLrDrrrrrdrrrdrdLLLLLLUUdddlluRdrUrrrrruulllulLLLdLLUUddrUrrrrrdrrDrdLLLLLUUdddlluRdrUrrrruullulLLLLrrrrrdrDrdLLLLUUddrrruululLLLuLDrrrddddlluRdrUUUddrrruululLLLdLUUUruL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ####
+########  ####
+#   ##.....  #
+#  $  ##...# #
+##  $  ### # #
+ # # $  #    #
+ #  # $  #   #
+ #   # $  #  #
+ #    # $ # ##
+ ####  # $  #
+    ##  # $ #
+     ##@#   #
+      #######
+
+Title: Level 59
+Author: Boxworld
+Solution: ululullluuuurRdRdRdRdRdRdRdrUUUUUruLdlUUUddrruuulLdlluurDrdddrdddddlluRdrUUUUruLdlUUUddrruuulLLulDrrdddrddddlllululululuurDrDrDrDrDululululllluurDldRRdRdRdRdRdRRdrUUUUruLdlUUUddrruuulLLLLrrrdddrddddlllululululuurDrDrDrDrDululululldRdRdRdRdRRdrUUUUruLdlUUUddrruuulLLLrrdddrddddlllulululuurDrDrDrDulululldRdRdRdRRdrUUUUruLdlUUUddrruuulLLrdddrddddlllululuurDrDrDululldRdRdRRdrUUUUruLdlUUUddrruuulLdddrddddllluluurDrDulldRdRRdrUUUUruLdlUUUddrddddllluurDldRRdrUUUUruLdlUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####      ####
+#..########..#
+#*.*.....*.*.#
+# $ $ $ $ $ $#
+#$ $ $@$ $ $ #
+# $ $ $ $ $ $#
+#$ $ $ $ $ $ #
+#.*.*.....*.*#
+#..########..#
+####      ####
+
+Title: Level 60
+Author: Boxworld
+Solution: UdDlUlDlDlDuruUlUlUdrdDlDDuurDurrrDLLLulDuUUrUddrrULdlUdrrrUddrDurDuUUdrUdDDurDuUrDrDDuulldRurDrDuluUrUUddllURUddllluRRdrUdrUdDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #####
+   ##   ####
+   # ..* $ #
+#### #.#   #
+#    .*.#@##
+# #$##$## #
+#     $ $ #
+##  #   ###
+ ########
+
+Title: Level 61
+Author: Boxworld
+Solution: uluLulldlddrRlllllddrrrrdrruLUUlllllddrrrRdrUllllluurrruururrdLrrdrruLLrddddLLdllulllluurrrrrUdlllllddrrrrdrruLUUlllllddrrUdlluurRRlddrRdrUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######
+#    #
+# $  ####
+# $*..* #
+# *..*$ #
+####  $ #
+   # @  #
+   ######
+
+Title: Level 62
+Author: Boxworld
+Solution: uUluulDuulldRldRuRurDDDrddlUUddrrruuLrdLLdlU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #####
+####.  ##
+# $.$.  #
+#@$# #$ #
+# $. .  #
+####$#$ #
+  #. .  #
+  #######
+
+Title: Level 63
+Author: Boxworld
+Solution: dRRRDuuUrrrddddllLuullluuRDldRuuRRddddrrruuuulLLrrrddlUruLddDrdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############
+#    ... $ #
+# $$$*** $@#
+#    ... $ #
+############
+
+Title: Level 64
+Author: Boxworld
+Solution: uLLLrddllllUdllluurrRddrrrUrurrdLLrrdLLLLLLuulllddrRRRRlluullDldRRRRluulDldRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##########
+##       #
+#   #$#$ #
+# $$  .$.#
+# @###...#
+##########
+
+Title: Level 65
+Author: Boxworld
+Solution: UluRurrrrrrdddllullLrrrdrruLruulDDrdLuuullllldlddrUrrrRRurDluulllllDldRRRRRRuullDulllddrrRRluullDldRRRuurrdD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ####
+ #  #####
+##$ ##  #
+#  $@$  #
+#   ##$ #
+###.## ###
+ #...$ $ #
+ ##..    #
+  ########
+
+Title: Level 66
+Author: Boxworld
+Solution: LddddrrruLLdrrrruLLuUruulDDDDrdLLLuLuuurRlldddrdrruuuruulDDDDuuullldlluRRuulDDrdddrdrRuuuulLrrddddlluluuUluurDDDDuulldRurDurrrdddLrrrdLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### ####
+#...# #  ####
+#...###  $  #
+#....## $  $###
+##....##   $  #
+###... ## $ $ #
+# ##    #  $  #
+#  ## # ### ####
+# $ # #$  $    #
+#  $ @ $    $  #
+#   # $ $$ $ ###
+#  ######  ###
+# ##    ####
+###
+
+Title: Level 67
+Author: Boxworld
+Solution: rRRllluuurrdDrdLurrRdLrddlUruulllddRRULuluullddddRRULdlUUUUruLdlUruLdlUruLdlUruLddrrrdddddlLdlluRRRRdrruLdlUUUUruLdlUruLdlUruLdlUUruLdddrrrdddddlllluurDldRRRRdrruLdlUUUUruLdlUruLdlUruLLrrdddrrrdDrdLLdlUUUUruLdlUruLdlUruLdlUUddrrrdddddrrrrruLLdllluuurrdDrdLLdlUUUUruLdlUruLdlUUUddrrdddddrrrrrrRurrdLLLLLLLLdlUUUUruLdlUruLdlUruLdlUdrrrdddddrrrrrrruLLLLdllluuurrdDrdLLdlUUUUruLdlUruLdlUruLrdddrrrddrrdddrUluurrrddLLruLLLLLdlUUUUruLdlUruLdlUUrdddrrrddrrrdddlUruLLLLdlUUUUruLdlUruLLrrddddddrrRurrddlUruLLLLdlUUUUruLdlUruLdlUrddrrrddrrrruUlluurRDDDDrdLLLLLLdlUUUUruLdlUruLddrrrddrrrruuuulDldRurDDDrdLLLLLLdlUUUUruLdlUUddrrrddrrrruurruLdlluurDDDDrdLLLLLLdlUUUUruLLdrrrddrrrruuluuuurDDDDDDrdLLLLLLdlUUUUruLdlUdrrrddrrrruurruuLdlluurDDDDDrdLLLLLLdlUUUUruLdrrddrrrruuuulllUluurDldRRRurDDDDDDrdLLLLLLdlUUUUUdrrddrrrruuuuuulLdlluurDldRRRurDDDDDDrdLLLLLLdlUUUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######
+#. . .#
+# $$$ #
+#.$@$.#
+# $$$ #
+#. . .#
+#######
+
+Title: Level 68
+Author: Boxworld
+Solution: UdRlLDldRRRUrUULuLLDDDurUdRddlLuurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ####
+#######  #
+#     $  #
+#   $##@$#
+##$#...# #
+ # $...  #
+ # #. .# ##
+ #   # #$ #
+ #$  $    #
+ #  #######
+ ####
+
+Title: Level 69
+Author: Boxworld
+Solution: urDluLLLDlluRRdDrddldlluuUdddrddlUUrruruulDrrdddLLullUURRRdrUdddlluUdllddrUluRluurRuuullldRRurDDrDrrrdDrdLLLLLUlluuUdrRRlllddrrUdllddrUluRluurRdRUluuuRRRdrDDDDrdLLLLLUUdllddrUluRluurRuuullldRRurDurrrurDDDDDDrdLLLLLUUdllddrUluRdrU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #########
+   #   #   #
+   #       #
+#####*### ##
+#   ...   #
+# # #*###$##
+# $    $   #
+#####@ #   #
+    ########
+
+Title: Level 70
+Author: Boxworld
+Solution: ulluurrUdllddrrUUddrRRdrruLLLLdlUlluurrrrrrDullllllddrrUdlluullddRRuurRddrrrdrruLLLLdlUrrrruullLLLLddRRUdlluurRddRRRdrruLuuuulllulldRDDllddlluuRRddrrUdrrRdrruLLLLdlUrrrruuuullLulD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+#...# #####
+#...###   #
+#....   $$#####
+#....  #  #   ##
+#..#$#### #$#  #
+## $  #     $$ #
+#  $# @ $ $$#  #
+# $ $ $ #   $ ##
+#   #  $ ##   #
+######   ######
+     #####
+
+Title: Level 71
+Author: Boxworld
+Solution: lulLDlUUUUUdddddlddrrUdlUUUUUUdddrrrddLLdlUUUUUluRdddrrrdrrurrdLLLrdLLLLdlUUUUluRddrrrDrrrrdrrdrruuruulDLLLLddrrULLLLLdLLLdlUUUrrrDulllUURUUdLrrrrrurrDDDDrdrddrruLdlUrrUruulDlLLdLLLLdLLLdlUUUrrrDulllUUlUUdRdrRurrrurrdddDrddrrrUruLLLLdLLLLdLLLdlUUUrrrDulllUUrULrrrrrurrdddDrddrUdrruulLLdLLLLdLLLdlUUUrrrDulllUUrurrrrurrdddDrdLLLLdLLLdlUUUUluURRdLulDrddrrrDrdLrddrruLdlUluLLdlUUUUUruLdddddrUdrruulLdlUUdrrrdrrrruuuuulldllLdlLddrrrdrruRlddLLLLdlUUUUUrrurrrurrdddDrrrruullDurrddlLLdLLLLdllluurrDullluurrurrdLLurrrurrdLLLLrrrrddDrdLLLLdLLLdlUUUUdrrUdrDrdLLLdlUUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############
+###.#      ####
+##..# $  $ #  #
+#...# ## $ #  #
+#.....  #$$   #
+##....$    #$ #
+#### #######  #
+#   $        ##
+#  $ #  $# $ ##
+# $### $ # $$ #
+#   @#  ##    #
+###############
+
+Title: Level 72
+Author: Boxworld
+Solution: llUluurrRuuurrrdrrrUrrrddlUUdddlllllldddrUrUdlluurRRRdddrrUUUUruullldlllullldddRRlllllddrUluRRRdLullddrUluRRdrUUUruLLdlUUdrrrrrdrrrurrrddlddddlluuullddlluuLLdlluRdrUUUruLLdlUrrdddrrddrruuLLLLdlluRdrUUUruLdlUUUdLdrrdddrrddrUruLLLLdlluRdrUUUruLLdlUrrrrrdLLrrrrrurrrddldLLLLLLLLuUruuuurrrrrdDuullddRDuluullldddLdddrrrrrrrruruullLdLLLLLLLUUdrddddlluRdrUUUruLdlUrruuurrdLulDDurrrdrDrrrrddlUruLLLdLLLLLruLLLLrrruurrrdrDrdLurrrdddddLUruLLLLLLLLuUruLLrddddlluRdrUUUruLruuurrrrrdDlddLLLLLddrrrrrrrdddlUUruLLLLLLLdlluRdrUUUddrrrrrrrruuulLuuLLLLulDDurrrdrDrdLLLLLrrrrurrrruulDrdLLLulDrdLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ########
+       #  #   #
+ ####### $$...#
+ #        #...#
+ # ######$#...#
+## #      #...#
+#  # #$ $ #####
+# # $ $ $ #
+# @  $ #  #
+#####$ $$ #
+    #     #
+    #######
+
+Title: Level 73
+Author: Boxworld
+Solution: rrRuRUrurrdLrddlUrdddlUdlluRdrruuuuullLddDuuurrrddlLrruullldDldlllluuruuurrrrrrrDDuuluurDRRRlllldlllllldddlddrrrruruurrruUluRRRurrDDDuuLulDDDuulldddlllddrrrUUUUluRRRRllldddddllURdrUUUUluRRRurrDDuLulDDullddddllluRRdrUUUluRRRRllldddddlllldlluRuuRRRRdrUUUluRRRurrDLulDllddddddddlluRUddrUUUUUUUluRRRRllldddllddRdrUUUUUluRRRurDDDuullldddlllllddRRRRdrUUUUUluRRRurDDulllddddddddllllUUdRRRdrUUUUUUUluRRRurDllldddlllllddRRRRdrUUUUUluRRRlldddddddlllUluRRRdrUUUUUluRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       #####
+  ######   #
+###    . $ #
+# $  #$.#$##
+#  #  @.#  #
+## ####.   #
+ # $  #*####
+ # ## #.  #
+ #     .# #
+ ###$     #
+   #  #####
+   ####
+
+Title: Level 74
+Author: Boxworld
+Solution: rdDDDllllluuuuluRRldddddrrrddlUrurruuuuuulllldldddddrRRllluuuuururrrrrurrdLDDrdLLruuuLLddDDDrrddlLLLullluuuuururrRRRurDDDrdLLruuulllllldldddddrrrdrrrruulluUUlllUluRRRRRurDDDrdLLruuulllDullddrRllulldddddrrrdrrUUddlluRdrUlluulLrrddllluUrrrddddlUruuulllddrRRRluulllUUluRRurrrddllUluRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ####
+#####  #####
+#    $   $ #
+#  $#$##   #
+### #.*. ###
+  # ... @#
+  ## #$###
+   #   #
+   #####
+
+Title: Level 75
+Author: Boxworld
+Solution: llluRldlddrrUUrruuullLDDuurrrdrruLLLLulDLLDlluRRRRRRRdddllddlluulUUddrddrruurruuullllLdddrRRllluuurrDDuulldddrddrruuLuuurrrdrruLLLLulDlldlluRRRRDDuuRRRdddLruurruLLLLulDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ########
+####    . #
+#  $ $ $. #
+#  .####.##
+# $.$ $ @#
+#  .  ####
+#######
+
+Title: Level 76
+Author: Boxworld
+Solution: uuulllldLdddrruLdllluurrururrrrdddlLLrrruuulldRlulldldllddrrrrurrruUruLLdrddllldlllluurrurRRRurDllllldllddrrUdrruLdllluuuRdDldRuuuRRRRRlluRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #####
+  #   #
+###$.$#####
+#   . $   #
+# ##$## @ #
+#   . #####
+### . #
+  #   #
+  #####
+
+Title: Level 77
+Author: Boxworld
+Solution: luLLLuurDldDDllluurRllddrrrrdLuuURuullDurDDDDllluurRllddrrrrddllUdrruuluUrRRdrruLLLLuullddllddrR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #####
+ # @ ######
+ # #..*   #
+ # ...#   #
+##$## $ $ #
+#   #$#####
+#   $   #
+##### # #
+    #   #
+    #####
+
+Title: Level 78
+Author: Boxworld
+Solution: rdrRRdrruLLLLdlllDDrdRRUUUllluurrDRRRddLruulldLuullddddrdrruUUdrruulLddddlluluuuurrDrrrdrrdLLLruulllullddddrdrruUUdrruulLddddddrruuLrddlluUUUUdddllulldRRRRddrruuLrddlluUUUrrrruuLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ######
+   ###    ##
+   #   ##  #
+ ###$##  # #
+##     ..# #
+#  $#$#*.# #
+# $$@ #.*# ###
+#  $$ #..#   #
+##    #..$   #
+ ###$##. # ###
+   #  ###  #
+   ##     ##
+    #######
+
+Title: Level 79
+Author: Boxworld
+Solution: rUdddllluluururrRllldlddrUddrrruulLUdrrddlUruuuRRDrDDlddrURRurrdLLLLrrddldllllulUUruuuurrdrdDlDRRRlluuulDuuurDDDDuuulllddddllluluuRuRRRRlddddlddrdrrrruruulLuuuuulDDullllldlddrUrUdlluRuRRRRlddddlddrdrrrruruulluuuuulDrddddrruuuuuulullldllDurrurrrdrdddddrrdLLLrddldlllluluulluuuurRRRRurDDDuullllllddrUluRRRRRurDDulllddddllUUUluRRRRRurDllllldddRdrUUUddlluuurRRRllllddRdrUUdlluurRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     #######
+     #  #  #
+     #  $$ #
+###### $#  #
+#...### #  ##
+#.  #  $ #  #
+#.    $ $ $ #
+#.  #  $ #  #
+#...### #  ##
+###### $   #
+     #@ #  #
+     #######
+
+Title: Level 80
+Author: Boxworld
+Solution: uRRRururuuluuuulDrdddDlLdLddrrurUruLddldlluuruuLDLLLLdlUrrrrruuUluurDDDDrdLLLLLLrrrrruuuuRRurDDDDrddlULLLLLLLdllUURDrrrrruuuurrrddlUruLLrddrDrdLLLLLLLLLrrrrruuuluurDDDDrdLLLLLUllDDRUUdrrrrrrrrddldlluUruLLLLLulDrrrrrdddrrdrUUUruLLLLLLLLDLUrrrdRurrrrdddllluUruLLLLLLrrruRdrrrruuuulllddDrdLLLLLuLDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          ######
+          #    #
+#####   ### ## #
+#.. ##### $  # #
+#..     $   $# #
+#..  ## ##   # #
+#.. ## $ #$ $# #
+#.. #     $  # #
+#.. #  $ ###$  #
+#.. # $ $  $ ###
+### ## # $    #
+  #    #@## $ #
+  #########  ##
+          ####
+
+Title: Level 81
+Author: Boxworld
+Solution: uUULullddRddllluuuuuuurrrrRRRdrddLUUddrrDrruuuuuuulllddDLLLLLLLLLulDDDDDrrdddrrruuUrrdLuuUUdrDRRuuullLLLLLulDDDDDrdddrrruUluRdrUUUUddrrruuullLLLLLLulDDDDrrddddrrruurrUluuuurrrdddlLdlUUUddrrruuullLLLLLulDDDDrddddrrruuluuRdrUUUddrrruuullLLLLLLulDDDuurrrrrrrrrruuurrrdddddddlluLLLLddrrdrrULLLLLuUUUddrrruuullLLLLLulDDDrdddddrrruUrrdRurrdrrdLdlUUruLLLdlUUluuuurrrdddlLdlUUUddrrruuullLLLLLulDDurrrrrdddrrrrrDDlddrruLdlUruLLLdlUUddrRurrddlUruuulllLdlUUUddrrruuullLLLLLLrrrrrrrrddrUrDDDDLLLdlUUdrrrddrruLdlUruurruuuuuuulllddrDLLLLLLLLLullDDrUrrrrrrrrdddlLdlUUUddrrruuullLLLLLuLDrrrrrrruRdrrDDDDDLLLdlUUdrrrrurruuuuuuullldDrdLLLLLLLLdlLuurDrrrrrrrdddlLdlUUUddrrruuullLLLLLDlUrrrrrdddddrrrrddrruLdlUruLLLdlUUdrrrruulllLdlUUUddrrruuullLLLLLLrrrrrdddlldRdddllluuuuUdddddrrruurUUUUddrrruuullLLLLLrdL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       #
+     #####
+   ### @ ###
+   #  $ $  #
+   # *.*.* #
+  ## .$ $. ##
+ ### *.*.* ###
+####  $ $  ####
+   ######  #
+    ##   ##
+
+Title: Level 82
+Author: Boxworld
+Solution: rDrrddlDlLuUddrruLdrrddlUUlldRurrddlUruuuullDlDLruruullDllddddrRRRuUddlllluuuurrurDrrrdddLrddlU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ##############
+ # @ * * * #  ##
+ #$#  * *  #   #
+ # # * * *     #
+ # #  * *  ## ##
+ # # * * * ## #
+ # #  * *  ## #
+ # # * * * ## #
+ # #  * *  ## #
+ # # * . * ## ##
+## ##########  #
+#              #
+#   #########  #
+#####       ####
+
+Title: Level 83
+Author: Boxworld
+Solution: lDDDDDDDDDuuuuuuuuurrdddddddrRdrrUrruuuuurrrddddddddlllllllllldlluRRRRRRRRRRRlllllllllluuuuuuuuuurrdddddddrrdrruLrrruuuuurrrdddddddrddlUUUUUUUUdddddddllllllllllluuuuuuuuuurrdddrDrRdDDulUruLrdddrrruulLrrddllluluurDrDurruulDrdLuLrruuulDDurrrurrdLLLLrrrddddddddllllllllllluuuuuuuuuurrdddddR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #############
+ #    #  ##  #
+ #$$$ # $$  $##
+ # $  #  .... #
+ #  $  #$.##. #
+ #  # $# ....##
+##$ $  #$.##. #
+# $  $ @$.... #
+#   ###  ######
+##### ####
+
+Title: Level 84
+Author: Boxworld
+Solution: RRRRlluuuurruurDDDDuullllluurDldRRRRurDDulllluRRRurDDlllddlUruulldRRRRllddddlUUUruulldRRRlddddllluluuuuulllDDRddddrRRRdrUUUUruulldRRddddlllluuurDDldRRdrUUUUruulldRurDDldRRlddlllllldlluRRRRRRRRRllllllluulDrddlluRRRRRRRRlllllluuuulDDDrddlluRRRRRRdrUUUUruulldRurDDDlddllllluRRurDldRRdrUUUUruulldRurDDldRlddllllluuuuRlluurrrdDDDDldRRRdrUUUUruulldRurDDldddllllluuuRurDDDldRRRdrUUUUruulldRurDlddddllluuuuuullDDDDDldRRRRRdrUUUUUluurDldRddddllllluuuuuRurDDDDDldRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     #########
+     #       #
+     #  $#$# #
+ ######  # $ #
+ #   # $  $  #
+## $     ### #
+#   #$####   #
+#    $ ### ###
+#####.. @# ##
+   #...$ $$ #
+   #...#    #
+   #...######
+   #####
+
+Title: Level 85
+Author: Boxworld
+Solution: dLuluLLLuluurrdrDDDDurDDLurrrdrrULLLululllulldRRRlluuurDrrdDDDlDurDrUluuuullDldRRluurrdDDRddlluRdrUluuuurrruulDrdLLLLulDDldRRluurrdDDDrdLuuuuurruuuurrrrrdddddlldDuurruulLLLulDrdLLLLulDDldRRluurrdDDDuuuurruuuurrrDDuurrddLdLLLulDrdLLLLulDDldRRluurrdDDurDDLuuuurruuuurrrdDrdLLLulDrdLLLLulDDldRRluurrdDDuuurruuuurDDuurrdddlLulDrdLLLLulDDldRRluurrdDrddrrdrrruLLLLruL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####     ####
+#  #######..###
+# $ $ $  #....#
+# $   $$ #***.#
+# $ $ $  #..*.#
+#  $ $ $ #*.*.#
+## $ $ $ .*.*.##
+#  $ $ $ .*.*.@#
+#  $ $ $ #*.*.##
+# $ $ $  #..*.#
+# $   $$ #***.#
+# $ $ $  #....#
+#  #######..###
+####     ####
+
+Title: Level 86
+Author: Boxworld
+Solution: lddddllUUlDDuurUUULLdRDDDuuuurDDDDDrruuuuuLrdddddlluuuuRurDDDDuuulldRuruuuLDDruuuulDDuullDRurrddlUruLLdlUrrrddddlUUUruLLrrdddddDDulUUUUUruLdddddllllddlLuuRRRRuRDDDDuRuuUUUruLLUrdddddllllddlUluRRRRlllluuRDRRRRDDDrDuuuUUUUruLddddlllllldRRRlluuurDldRRRDDDuullddddlUUUluRRRRuRDDurUUUddlllluuuulDLDlLdddRRRRRllllluRRRRRRDDulllllldDRUluRRRRRRRluRRDDDuurUUUULdddlllluuulDllDldRRRRlllddddRUUluRRRRluRRDllllllLDlluRRRRRRRRRuRDlllddddlUUUluRRRRRRUUUUdddrDlllllllllllldddRUUluRRRRRRRRRRllluuullDldRRRRRRRDDurUUUdddlllllllllllldddddrUUURRllUluRRRRRRRRRRllllllllluRRRRRRRRRRDrUUdllllluulDldRRRRRRdrUllllllllllluRRuulDDldRRRRRRRRRdrUUUddlllluulllDldRRRRRRRlllddddlllUUluRRRRRRRRUUdllllullllllluuRDldRRRllluuuurDDldRRRRDldRRRRRRRRlllluuullDDldRRRRRRdrUlllllllluuuRuLLDlluurDldRRDDldRRRRRRRRRllluuuulLDDDldRRRRRlluuuullLLDuLdlluurDldRRRDDldRRRRRRluuuulllDDDldRRRRllldddddLUUUluRRRRRRRRllllllddddlLUUUluRRRRRRRRllllllllldddddrUUUUluRRRRRRRRlddddlLLLLullddrUUUUluRRRRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      #####
+#######   #
+#   ##.   #
+#  $#..  ###
+##  ...#$$ #####
+ # $.#.$       #
+ # $###$## # $ #
+ #   #     $$# #
+ ##$$# ##$#$   #
+ #... $@ $   ###
+ #...#$#   ###
+ #...  #####
+ #######
+
+Title: Level 87
+Author: Boxworld
+Solution: LLLrruurrrruullUUlldlllldRlddrrDDLddrrrUdllluurDuuulUluurrrurruurrdLLrdddrrrrrrdddlldlldllulLLruurrrruurrdDuulluLdlUUllddRDulullllddrUddrdDrrddlLLuuUdrrrrrdrruLLLLLLulDDuuUUluuRRRurruurrdLulDrdLLrrdrrdddRDuluurrrrdddlLdLLLLLLLLulDrrruuRRRRuurrdDuullddRDuluurrrrdddlLdLLLLLLLLDLUrrruurrrrrDrdLLLLLLLruuruulUlllluurDldRRRlllddrUluRRldddrdDlUUUUluRdddddrrruurrrDuruulLLrrrrrdDuurrdLrddlLdllLLLLLLulDrrruurrrrrDrdLLLLLLLLrruuruurrrrrDDurrddlLulDrdLLLLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ####  ######
+ #  ####    #
+##*   * **  #
+# $ *    *# #
+# .   ###   #
+######   #@##
+# * . *  ** #
+#   #   #   #
+##*   * #$# #
+ #  #####   #
+ ####   #####
+
+Title: Level 88
+Author: Boxworld
+Solution: uruuulllDldlldlllluRdrrruullDurrddlLrUrrrurRurrdddllULLLLuRRllddlluuRRdrrrrdrruuullDurrdLrddldDLLullDurrdLddLLuuRurDrrrrdddllUUddrruuulLLulldRRlllddrrULulllddRRUruLrurrdLrRdddrruuLrddlluU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #########
+ #   #   #
+ # $$$$$ #
+## $ $ $ #
+# $  @   #
+# $ #### ##
+#  #..... #
+##  ..... #
+ ##########
+
+Title: Level 89
+Author: Boxworld
+Solution: rrruuullDDRdrdddlllllluluuRuuurrDDRRuurrdDDDuuuullddRllluulldddlddrdrrrrrrruLLLLrrruululuurrdDDDuulllluulldddlddrdrrrrrrruLLLdlllluluuruRRRdRRurDDulllullldlddrdrrrrrrruLLdllllluUrURRRRurDDullllldlddrrrrrrruLdlllllluluuRRRRRRurDDDrdLLLLrrruuullluRuRurDDDDDrdLLLrruuulluRurDDDDrdLLruuulllluuRRRurDDDDDrdLuuulllllluRRRRRurDDDDuulllllluuRRRRRurDDDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #######
+   #     #
+   # $ $ ##
+   #####..#####
+######..*.  $ #
+#  $@$....#$$ #
+#   $ #$###   #
+#####       ###
+    ###  ####
+      #  #
+      ####
+
+Title: Level 90
+Author: Boxworld
+Solution: RddrrUUrruulDrdLuLDruuuulldRurDDrdLuuulllldRRRurDDrddlUdlDDrrrrurruuLLLLrrrrddlUruLLLrrddldlllluurrUrrrddlUruLLrdddlllllluuRRRllllLdRllluRRRRRRddrddlUUUdllUluR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+#   ######
+# $ .. $ #
+##$ ..$$@#
+ #  .. $ #
+ #########
+
+Title: Level 91
+Author: Boxworld
+Solution: dLLrruuLDLLulldRluulldRurDrddllURuulldRurDrrRddLrurrdLLrruuLLLLLulldRRRllddrUluR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #####
+  #   ######
+###$#.     #
+# $ ...# $ #
+#@ $.#*$   #
+####    ####
+   ######
+
+Title: Level 92
+Author: Boxworld
+Solution: uRRRddrrUUddlluulldRurRuullDDrruRRRddrruuLLLLrrddLdlllULulldRRuuurrDrrrddrUruLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #####
+#####   #
+#   $ @ #
+#  $ #.#####
+##$ ##.##  ####
+ #  ..... $#  #
+ # $##.##  #$ #
+ #   #.##     #
+ ### $ ##### ##
+   # #$     $ #
+   #    ###   #
+   ###### #####
+
+Title: Level 93
+Author: Boxworld
+Solution: lLLDlluRRRRurrdLdddllllddrrdddrrUUUUUddddrrrrrdrruLLLLLLrrrrruuruulDDDullluuurDDldRRluullllllllddrrdddrrUUUUddddlluuulluurrrRRRllddddrrrrrdrruLLLLLLrrrrruUruulDDDulluuulDlllllllddrrdddrrUUUUddddlluuulluurrrRllllUUrurRurrdLdDDllllddrrdddrruuuUdddrrrrrdrruLuulllUruLddrrrddLLLLLdlUUUdddlluuRlddrruUllulUluRRlluururRurDDulldlDldRuulluRRRRurD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######
+#  *  #
+# @.$ #
+# $.  #
+#*.***#
+#  *  #
+# $*$ #
+#  .  #
+#######
+
+Title: Level 94
+Author: Boxworld
+Solution: uRddrruLLulldRldRddlddrUUddrrruulDrdLuuUUruuLDD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #########
+  #    #  #
+### #$  $ ####
+#  $  ##..#  ###
+# #  $ #..$ $  #
+# $$  $#..  #  #
+##  #  ...#$   #
+ #$ @ #...# $  #
+ #    #...$   ##
+ # ##$ ###   ##
+ #   $     ###
+ #  ########
+ ####
+
+Title: Level 95
+Author: Boxworld
+Solution: ruuluurDrDulllDrRdRRRurrrDrrddllLLuUluRuuuulDllulDDDrDulldRdRRdrUruulUruLrddddlUUUdddllluurDluuuulldDllddRRRRdRRdrUUdllluurDldRRdrruulDrdLrdLrrrrruulDrdLLLddllllLUUUUruulldRurDldRRllddddrrrrruuLuuulDllldllUluRRRurDldRRRuruulDruuulDrdddDlllluuuurRRurDlllldllDullddrRRRurDldRRRlllddlllUUruuullddRRRRurDldRRllddddLLdlUUUUUruuullddRRRRurDldRlddddrrrrrurruuuluLruLLrrddrruuLLLrddDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ##########
+####......  #
+#   .....#  #
+#  #...... ##
+## ####$##$#
+#@$  $ $   ###
+# $$    ##   #
+# #  $$##  # #
+#   $  # $$  #
+#  $  $   #$ #
+####   # $ $ #
+   #   #     #
+   ###########
+
+Title: Level 96
+Author: Boxworld
+Solution: dddrruUddlluuRUUUluRRldddldddrrururruRUUUdlllUrrrddddllluRRdrUUdlllddldlluuruuuurrrrrrdLLLullldddlddddrRRUrUUluRRdrUUdlldddlllluuruuuurrrrrrdLLrddlldddrUUluRdrUUdldddllddrUUddrUUUUdddrrddrruLdlUruLLrddrrrruuuuulldlDuruuUUllulldRRldddlluRdrUUdldddllllluuruuuurrrrrrdLddldddlUUluRRdrUUUruuLLdRurDldddlldddddrUUUUluRdrUUUUruLddddlddddrrururuuuuUruLLrddddddldDllluuuurRRlllddddrrddrruLdlUruLLrruuruUUUUruLddddllllldddddrUUUUluRdrUUUUdddrrrdrrddddLLLdlUruLLrruuruullllldddddrUUUUluRdrUUUddldddllllluuruuuurrrrRdddrrrdrrddlLulDDlddrruLdlUruLLrurruuullllldddddrUUUUluRdrUUUddrrrdddrDrdLLLdlUruLLrurruuullllllLrrdddlluUlUUUluRRRRlllddddrruLdlUUUluRRRlldddrdddrUUddddrrUUUUluRdrUUdllLLdlUUUluRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      #########
+      #       #
+      #$ $$$  #
+      #   # $ #
+      #   $@$ #
+    ###$ $ # ##
+    #   $#$# #
+##### #  #   #
+#...  # $# ###
+#.....   # #
+#.....# $# #
+########   #
+       #####
+
+Title: Level 97
+Author: Boxworld
+Solution: LLulldDDDrUllldddrrrUdllluuurrdDrdLLLLLLrrrrruuuuuurrdLulDDDDDrdLLLLLrruuurrrUluurrdLulDDDDDrdLLLLrrruuuuurrrdLLulDDDDrdLLLulDrrrurUUluurrdLulDDDDrdLLLdLLLrrUrrrruuuuuuuulDDDDDDDrdLLLuLLLrrDrrruuuuuuuurrDDDrdLLulDDDDrdLLLdLLrUrrruuuuuuuurrrrDLLLulDDDDDDDrdLLLuLLrDrrruuuuuuurrrrrrddLLLLLulDDDDDrdLLLdLUrrruuuuuuurrrrrDrdLLLLLulDDDDDrdLLLuLDrrruuuuuuurrrrDrdLLLLulDDDDDuuuurrrrrdddllUUddddddllUULLLrrrUUUluurrdLulDDDDrdLLruuullddDrruuuuuuurrrrddLLLulDDDDDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ##### ######
+ #   ###    #
+## $ $ #$ #$#
+#  $ @ $  $ ##
+# #  ## #....#
+#  ## $ #.##.#
+##  $    ....#
+ # $$ #$#....#
+ #   #   #$ ##
+ ##### $    #
+     ####  ##
+        ####
+
+Title: Level 98
+Author: Boxworld
+Solution: rRdddrruuuuurrDDuulldddddlluuuRldddrrrrruuLuuulldDDDuulldddrRRRdrUUdllluuuRluulDurrrdDlldddlluuuRurDDDuulldddrRRRdddlUrurUllldRRddlllulldRRRdrUUruulldRluuuullllluullddRRRRRRurDDDDuuullllllllddrdrRRRluRdRRRRRlluuullllluulDldRRRRRRurDDullluLdlluurDldRRRRRurDlldDldRRRRllllllllddrUluRRRRRRRllllllddrUluRRRRRlDDldRRRdrUU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####
+#  #
+#  ##########
+#    ##     #
+#..#    $$# #
+#..  ##   $ ###
+#..#  ##$# $  #
+#..   # @$ $  #
+#..#  # $ $   #
+# .   # $ $ ###
+#  #  #   ###
+#  #    ###
+#########
+
+Title: Level 99
+Author: Boxworld
+Solution: lddddllluuuuuuurrrdrrRddRddLruuluullluurrDulldllldddddddrrrurrUrruuluuLuLLLLrrrrdrddrddlldlldlluullluuuuuurrDrrrdRullllDDrdddddrruuuurUUddldddrrurruuluuLuLLLLrrrrdrddrddlldlldlluuuuLLLdlUUUruurrDDDrdddddrruuuuruUruLLLLrrrdddlddddlluuuuLLLdlUUruuurrDDDrdddddrruuRUUUUruLLLLrrdrrrddLrrddlLUlldddlluuuuLLLdlUruuuurrDDDDDrdddrruuurUUUruLLLLrrdrrrddLdlldddlluuLLLdlUruuuuuurrDDDDDrdddrruuurUUUruLLLLrrrdddlddddlluuLLruulluuuurrDDDrdddddrrurUUUUUruLLLLrrrdddrrrdLLdllddlluuuuLLLdDuuuuuurrDDDrdddddrruurUUUUruLLLLrrrdddlddddlluuuuLLruulluurrDDDDrddddrruuurrrrrruLLruLdLUdLdlUUUruLLLLrrrdddlddddlluullluUUUUUrrDDDuurrrurrrrdDLLrddrruLdlUdlluUruLLLLrrrdddlddddlluuuuLLruulluurrDDDuurrrurrrrddLLrddlluUruLLLLrrrdddlddddlluuuuululluuluurDDrrDrrrrdddlddddlluullluUUdddrrruuLLrrddllluUddlddrUUrrddrrruruuuuuullllDDrdLLrDrdLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         #####
+        #     #
+       #  $##  #
+      #  #   $ #
+#  #  # #  # # #
+ # #  # $ $  $ #
+  ####### #$#  #
+  #  $ $      #
+  #@..$ **.###
+   #......#####
+    ############
+
+Title: Level 100
+Author: Boxworld
+Solution: rdrrruLuLDrdLrrrrULuLDrrruLuuururrddlLulDDDDldLLruuRdrrurrruruuuLLddllldDrdLulDurrrrruruLLLLulDDDrdLLulDlluRRdrruuurrDurrddlLLruulldDrdLLLulDllluRRdrruRdrruruulldDrdLLLLLuRRRdrruruuruuruulllDDDlddDrdLLLLurrrrruuLulDDDrdLLruuurrruuLrruullldlldlddRluururrDDlDDDldRurruuLulDDDllldR
