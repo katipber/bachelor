@@ -15,11 +15,10 @@ This repository contains some of my homeworks and projects completed during my b
 | [Robot](https://github.com/katipber/bachelor/tree/master/robot)            			| 2         | Python    | Computer Networks               |
 | [Car Production](https://github.com/katipber/bachelor/tree/master/carProduction)   			| 3         | CPP       | Algorithms and Graphs I         |
 | [Election Debates](https://github.com/katipber/bachelor/tree/master/electionDebates)		 	| 3         | CPP       | Algorithms and Graphs I         |
-| [Advent Rush](https://github.com/katipber/bachelor/tree/master/advendRush)    			  | 3         | CPP       | Algorithms and Graphs I         |
+| [Advent Rush](https://github.com/katipber/bachelor/tree/master/adventRush)    			  | 3         | CPP       | Algorithms and Graphs I         |
 | [Tundra](https://github.com/katipber/bachelor/tree/master/tundra)           			| 4         | CPP       | Algorithms and Graphs II        |
 | [Coal Delivery](https://github.com/katipber/bachelor/tree/master/coalDelivery)       	| 4         | CPP       | Algorithms and Graphs II        |
 | [Cryptocurrency](https://github.com/katipber/bachelor/tree/master/cryptocurrency)     	  | 4         | CPP       | Operating Systems               |
 | [Sokoban Solver](https://github.com/katipber/bachelor/tree/master/sokobanSolver)      	| 4         | Python    | AI Fundamentals                 |
 | [Company Fleet System](https://github.com/katipber/bachelor/tree/master/fleetSystem) 	| 4         | Java      | Team Software Project           |
-
 

@@ -1,6 +1,6 @@
 # Robot
 
-
+This project is about implementing [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) Server and Client for a simple robot game.
 
 ## Task Description
 
@@ -87,102 +87,102 @@ italics = the text that gets displayed in terminal after connection launching or
 bold = server (robot)
 normal = client
 
-xsmitka@fray1:/home/zam/xsmitka>telnet baryk.fit.cvut.cz 3998
-Trying 147.32.232.173…
-Connected to baryk.fit.cvut.cz.
-Escape character is '^]'.
-210 Hello, here is Robot version 1.6. My name is Magdalena.
-Magdalena LEFT
-240 OK (13,7)
-Magdalena STEP
-240 OK (12,7)
-Magdalena STEP
-580 FAILURE OF BLOCK 8
-Magdalena REPAIR 8
-240 OK (12,7)
-Magdalena STEP
-580 FAILURE OF BLOCK 3
-Magdalena REPAIR 3
-240 OK (12,7)
-Magdalena STEP
-240 OK (11,7)
-Magdalena STEP
-580 FAILURE OF BLOCK 3
-Magdalena REPAIR 3
-240 OK (11,7)
-Magdalena STEP
-240 OK (10,7)
-Magdalena STEP
-580 FAILURE OF BLOCK 9
-Magdalena REPAIR 9
-240 OK (10,7)
-Magdalena STEP
-240 OK (9,7)
-Magdalena STEP
-240 OK (8,7)
-Magdalena STEP
-240 OK (7,7)
-Magdalena STEP
-240 OK (6,7)
-Magdalena STEP
-240 OK (5,7)
-Magdalena STEP
-240 OK (4,7)
-Magdalena STEP
-240 OK (3,7)
-Magdalena STEP
-240 OK (2,7)
-Magdalena STEP
-240 OK (1,7)
-Magdalena STEP
-240 OK (0,7)
-Magdalena LEFT
-240 OK (0,7)
-Magdalena STEP
-240 OK (0,6)
-Magdalena STEP
-240 OK (0,5)
-Magdalena STEP
-240 OK (0,4)
-Magdalena STEP
-240 OK (0,3)
-Magdalena STEP
-580 FAILURE OF BLOCK 7
-Magdalena REPAIR 7
-240 OK (0,3)
-Magdalena STEP
-240 OK (0,2)
-Magdalena STEP
-240 OK (0,1)
-Magdalena STEP
-240 OK (0,0)
-Magdalena PICK UP
-260 SUCCESS Hello world.
-Connection to baryk.fit.cvut.cz closed by foreign host.
-xsmitka@fray1:/home/zam/xsmitka>
+	xsmitka@fray1:/home/zam/xsmitka>telnet baryk.fit.cvut.cz 3998
+	Trying 147.32.232.173…
+	Connected to baryk.fit.cvut.cz.
+	Escape character is '^]'.
+	210 Hello, here is Robot version 1.6. My name is Magdalena.
+	Magdalena LEFT
+	240 OK (13,7)
+	Magdalena STEP
+	240 OK (12,7)
+	Magdalena STEP
+	580 FAILURE OF BLOCK 8
+	Magdalena REPAIR 8
+	240 OK (12,7)
+	Magdalena STEP
+	580 FAILURE OF BLOCK 3
+	Magdalena REPAIR 3
+	240 OK (12,7)
+	Magdalena STEP
+	240 OK (11,7)
+	Magdalena STEP
+	580 FAILURE OF BLOCK 3
+	Magdalena REPAIR 3
+	240 OK (11,7)
+	Magdalena STEP
+	240 OK (10,7)
+	Magdalena STEP
+	580 FAILURE OF BLOCK 9
+	Magdalena REPAIR 9
+	240 OK (10,7)
+	Magdalena STEP
+	240 OK (9,7)
+	Magdalena STEP
+	240 OK (8,7)
+	Magdalena STEP
+	240 OK (7,7)
+	Magdalena STEP
+	240 OK (6,7)
+	Magdalena STEP
+	240 OK (5,7)
+	Magdalena STEP
+	240 OK (4,7)
+	Magdalena STEP
+	240 OK (3,7)
+	Magdalena STEP
+	240 OK (2,7)
+	Magdalena STEP
+	240 OK (1,7)
+	Magdalena STEP
+	240 OK (0,7)
+	Magdalena LEFT
+	240 OK (0,7)
+	Magdalena STEP
+	240 OK (0,6)
+	Magdalena STEP
+	240 OK (0,5)
+	Magdalena STEP
+	240 OK (0,4)
+	Magdalena STEP
+	240 OK (0,3)
+	Magdalena STEP
+	580 FAILURE OF BLOCK 7
+	Magdalena REPAIR 7
+	240 OK (0,3)
+	Magdalena STEP
+	240 OK (0,2)
+	Magdalena STEP
+	240 OK (0,1)
+	Magdalena STEP
+	240 OK (0,0)
+	Magdalena PICK UP
+	260 SUCCESS Hello world.
+	Connection to baryk.fit.cvut.cz closed by foreign host.
+	xsmitka@fray1:/home/zam/xsmitka>
 
 ### Requirements
 
-    both client-side and server-side part must be implemented
-    client must pick the secret text up automatically with no human interference (this applies for the whole session)
-    both client-side and server-side part must operate with its adverse party on baryk.fit.cvut.cz
-    client must be able to estabilish more connections at one time as well as multiple sequential connections (without server restart)
-    both server and client must be stable and resistant to unexpected input
-    program should echo some basic information about its state (e.g. messages that are being processed, …)
-    IP address or DNS name and port number are to be passed as parameters upon program invocation (thus not hard-coded), the right syntax can be seen below)
-    client must print the secret text in case the flag gets picked up successfully
-    server must print information about currently served client (so a recipient is known)
-    the source code must be well-commented, author's name must be mentioned in the source code's upper part
-    among permitted programming languages are: Java, C, C++, Python, Perl
-    both client and server implementation must be in the one single file. This file may be named in whatever manner, but its extension must be .c, .cpp or .java.
+* both client-side and server-side part must be implemented
+* client must pick the secret text up automatically with no human interference (this applies for the whole session)
+* both client-side and server-side part must operate with its adverse party on baryk.fit.cvut.cz
+* client must be able to estabilish more connections at one time as well as multiple sequential connections (without server restart)
+* both server and client must be stable and resistant to unexpected input
+* program should echo some basic information about its state (e.g. messages that are being processed, …)
+* IP address or DNS name and port number are to be passed as parameters upon program invocation (thus not hard-coded), the right syntax can be seen below)
+* client must print the secret text in case the flag gets picked up successfully
+* server must print information about currently served client (so a recipient is known)
+* the source code must be well-commented, author's name must be mentioned in the source code's upper part
+* among permitted programming languages are: Java, C, C++, Python, Perl
+* both client and server implementation must be in the one single file. This file may be named in whatever manner, but its extension must be .c, .cpp or .java.
 
 The file must be compilable by the relevant command-line oriented compiler (gcc/g++/javac). The file is the only one to be submitted.
 
-    if you use java language, add package robot at the beginning of your source file and name the class with main method Robot.
+if you use java language, add package robot at the beginning of your source file and name the class with main method Robot.
 
 There is java, C or C++ templates that you can use – see examples.
 
-    program can be invoked as server or as client according to passed parameters:
+program can be invoked as server or as client according to passed parameters:
 
 client role: ./robot <server> <port>
 server role: ./robot <port>

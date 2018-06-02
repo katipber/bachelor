@@ -1,6 +1,6 @@
 # Advent Rush
 
-This task demonstrates implementation of [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree) by [Kruskal](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) algorithm and [Vertex Cover](https://en.wikipedia.org/wiki/Vertex_cover).
+This task is about implementation of [Minimum Spanning Tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree) by [Kruskal](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) algorithm and [Vertex Cover](https://en.wikipedia.org/wiki/Vertex_cover).
 
 Since STL was not allowed [Linked List](https://en.wikipedia.org/wiki/Linked_list) and [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure)) was also implemented.
 

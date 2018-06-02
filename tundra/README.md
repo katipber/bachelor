@@ -1,6 +1,6 @@
 # Tundra
 
-
+This task is about detecting [blocks](https://en.wikipedia.org/wiki/Biconnected_component) and articulation points in an [undirected graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Undirected_graph).
 
 ## Task Description
 
@@ -16,58 +16,59 @@ For the programming purposes the dictator provided you with the handbook "State-
 
 #### Input format:
 
-    On the first line there are two numbers N and M, specifying the number of villages and the number of communication channels in the region, respectively.
-    The numbering of villages is zero-based; their identifiers are thus 0, 1, ..., N - 1.
-    After that M lines follow, where on each line a pair of villages, which are bidirectionally connected, is specified.
-    No channel connects the village with itself.
-    There is at most one channel between every pair of villages.
-    The villages are able to communicate without TUNDRANET if no village is "under the snow".
-    You can assume the input is valid.
+On the first line there are two numbers N and M, specifying the number of villages and the number of communication channels in the region, respectively.
+The numbering of villages is zero-based; their identifiers are thus 0, 1, ..., N - 1.
+After that M lines follow, where on each line a pair of villages, which are bidirectionally connected, is specified.
+No channel connects the village with itself.
+There is at most one channel between every pair of villages.
+The villages are able to communicate without TUNDRANET if no village is "under the snow".
+You can assume the input is valid.
 
 #### Output Format:
 
-    The output consists of two lines. On the first line, there is one output number: the minimum number of villages that has to be equipped by TUNDRANET. On the second line, print, in any order, a space-separated list of the village identifiers that has to be equipped by TUNDRANET.
-    Should there be more than one solution, print an arbitrary one.
+The output consists of two lines. On the first line, there is one output number: the minimum number of villages that has to be equipped by TUNDRANET. On the second line, print, in any order, a space-separated list of the village identifiers that has to be equipped by TUNDRANET.
+Should there be more than one solution, print an arbitrary one.
 
 #### Classification Conditions:
 
-    To pass the compulsory tests (basic and small data tests), your solution has to return correct answers for region with at most 100 villages.
-    To pass the test on large dataset, your solution has to return correct answers within the time and space limit for region of at most 50 000 villages and 1 000 000 channels.
+To pass the compulsory tests (basic and small data tests), your solution has to return correct answers for region with at most 100 villages.
+To pass the test on large dataset, your solution has to return correct answers within the time and space limit for region of at most 50 000 villages and 1 000 000 channels.
 
 ### Examples:
-Input Example #1:
+	
+	Input Example #1:
 
-5 5
-1 2
-2 3
-3 1
-4 1
-0 2
+	5 5
+	1 2
+	2 3
+	3 1
+	4 1
+	0 2
 
-Output Example #1:
+	Output Example #1:
 
-2
-0 4
+	2
+	0 4
 
-Input Example #2:
+	Input Example #2:
 
-11 13
-1 2
-2 3
-1 3
-4 3
-5 4
-3 5
-5 6
-6 7
-8 7
-7 10
-8 9
-10 9
-7 0
+	11 13
+	1 2
+	2 3
+	1 3
+	4 3
+	5 4
+	3 5
+	5 6
+	6 7
+	8 7
+	7 10
+	8 9
+	10 9
+	7 0
 
-Output Example #2:
+	Output Example #2:
 
-3
-2 0 10
+	3
+	2 0 10
 
